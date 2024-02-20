@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (5.6.0)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - SnapKit
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: 4b2084df0f15e1e683e94aa3573098ddd37e6fb9
+
+COCOAPODS: 1.8.4
